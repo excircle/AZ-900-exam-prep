@@ -38,14 +38,37 @@ PLACE HOLDER MATERIAL
 </p>
 </details>
 
-_Glossary_
+## Glossary
 
 <details><summary>Dictionary of Azure Terms</summary>
 <p>
 
-| Term  | Definition                   |
-|-------|------------------------------|
-| ITPAC | I.T Pre-assembled Components |
+| Term | Definition |
+|-|-|
+| Azure Blob | Object store for text and binary data. |
+| Azure Disks | Azure block device storage. |
+| Azure Files | Azure NFS service. |
+| Azure Geography | An Azure geography is an area of the world that contains at least one or more Azure region(s). |
+| Azure Queues | Azure message queuing service. |
+| Azure Storage | Blanket term that refers to Azure ['Blobs','Disks','Filess','Queues','Tables']. |
+| Azure Tables | Azure NoSQL/Schemaless data solution. |
+| ITPAC | I.T Pre-assembled Components. |
+
+</p>
+</details>
+
+<details><summary>Azure/AWS Cross Reference Map</summary>
+<p>
+
+This map servers as a cross reference resource to help people familar with AWS understand services and terminology with Azure
+
+| Azure_Term | AWS_Term | Description |
+|-|-|-|
+| Azure Blob | Amazon S3 | Azure Blob is the Azure object storage service that is equivalent to S3 |
+| Azure Disks | Amazon EBS | Azure Disks is the disk/block-storage solution for Azure. |
+| Azure Files | Amazon EFS | Azure Files is the NFS system for Azure. |
+| Azure Queues | Amazon SQS | Azure Queues is the queuing system for Azure. |
+| Azure Tables | Amazon DynamoDB | Azure Tables is the schemaless/NoSQL solution for Azure. |
 
 </p>
 </details>
