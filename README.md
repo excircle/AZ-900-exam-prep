@@ -68,6 +68,7 @@ This map servers as a cross reference resource to help people familar with AWS u
 | Azure Disks | Amazon EBS | Azure Disks is the disk/block-storage solution for Azure. |
 | Azure Files | Amazon EFS | Azure Files is the NFS system for Azure. |
 | Azure Queues | Amazon SQS | Azure Queues is the queuing system for Azure. |
+| Azure Resource Group | Amazon Resource Tags | Tags are that applied to any AWS services are used in the same way Azure uses "Resource Groups." |
 | Azure Tables | Amazon DynamoDB | Azure Tables is the schemaless/NoSQL solution for Azure. |
 
 </p>
