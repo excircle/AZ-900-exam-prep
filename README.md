@@ -38,6 +38,18 @@ PLACE HOLDER MATERIAL
 </p>
 </details>
 
-### Small Projects
+_Glossary_
+
+<details><summary>Dictionary of Azure Terms</summary>
+<p>
+
+| Term  | Definition                   |
+|-------|------------------------------|
+| ITPAC | I.T Pre-assembled Components |
+
+</p>
+</details>
+
+## Small Projects
 
 #### TO BE ADDED LATER
